@@ -6,12 +6,13 @@ I like to mix things up from game engine development to making operating system 
 
 **Technologies i like working with**
 
-<img align="left" alt="visual-studio" src="images/logos/visual-studio.svg" height="50px">
-<img align="left" alt="c-sharp" src="images/logos/c-sharp.svg" height="50px">
-<img align="left" alt="c" src="images/logos/c.svg" height="50px">
-<img align="left" alt="node-js" src="images/logos/nodejs.svg" height="50px">
-<img align="left" alt="graph-ql" src="images/logos/graphql.svg" height="50px">
-<img align="left" alt="flutter" src="images/logos/flutter.svg" height="50px">
+<img align="left" alt="visual-studio" src="images/logos/visual-studio.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="c-sharp" src="images/logos/c-sharp.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="c" src="images/logos/c.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="node-js" src="images/logos/nodejs.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="python" src="images/logos/python.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="graph-ql" src="images/logos/graphql.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="flutter" src="images/logos/flutter.svg" height="50px" style="margin: 0 5px">
 
 <br/>
 <br/>
