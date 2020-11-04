@@ -6,17 +6,15 @@ I like to mix things up from game engine development to making operating system 
 
 **Technologies i like working with**
 
-<img alt="visual-studio" src="images/logos/visual-studio.svg" height="50px">
-<img alt="c-sharp" src="images/logos/c-sharp.svg" height="50px">
-<img alt="c" src="images/logos/c.svg" height="50px">
-<img alt="node-js" src="images/logos/nodejs.svg" height="50px">
-<img alt="graph-ql" src="images/logos/graphql.svg" height="50px">
-<img alt="flutter" src="images/logos/flutter.svg" height="50px">
+<img align="left" alt="visual-studio" src="images/logos/visual-studio.svg" height="50px">
+<img align="left" alt="c-sharp" src="images/logos/c-sharp.svg" height="50px">
+<img align="left" alt="c" src="images/logos/c.svg" height="50px">
+<img align="left" alt="node-js" src="images/logos/nodejs.svg" height="50px">
+<img align="left" alt="graph-ql" src="images/logos/graphql.svg" height="50px">
+<img align="left" alt="flutter" src="images/logos/flutter.svg" height="50px">
 
-
-(PS: My favorite reposity is https://github.com/ayushkumar121/Fairy-Engine)
-
-
+<br/>
+<br/>
 <br/>
 
 ### More About Me  
@@ -39,7 +37,9 @@ I like to mix things up from game engine development to making operating system 
     Email me at ayushkumar121@outlook.com
     
 - **😄 Pronouns :** He/Him
-- **⚡ Fun fact :** Really like strategy games like factorio
+- **⚡ Fun fact :** Really like strategy games like factorio  
+
+  (PS: My favorite reposity is https://github.com/ayushkumar121/Fairy-Engine)
 
 <br/>
 
