@@ -47,3 +47,9 @@ I like to mix things up from game engine development to making operating system 
  ## GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=ayushkumar121&show_icons=true&hide_border=false&theme=tokyonight" />
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar121&title_color=8957e5&text_color=c9d1d9&icon_color=3fb950&bg_color=0d1117&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar121&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
+</p>
+
