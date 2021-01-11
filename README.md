@@ -44,6 +44,8 @@ I like to mix things up from game engine development to making operating system 
 
 <br/>
 
+> Most of my repositories are result of my experiments after visiting sketchy forums
+
  ## GitHub Stats
 
   
