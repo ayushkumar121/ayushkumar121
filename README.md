@@ -21,10 +21,7 @@ I like to mix things up from game engine development to making operating system 
 ### More About Me  
 
 - **🔭 I’m currently working on :**  
-  
-  a project for Imagine Cup 2021 focussed on accessibilities during video conferencings  
-  https://github.com/connecting-hands/connecting-hands
-  
+
 - **🌱 I’m currently learning :**
     
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
