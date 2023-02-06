@@ -6,10 +6,7 @@ I like to mix things up from game engine development to making operating system 
 
 **Technologies i like working with**
 
-<img align="left" alt="cpp" src="images/logos/c.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="cpp" src="images/logos/cpp.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="cpp" src="images/logos/rust.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="cpp" src="images/logos/go.svg" height="50px" style="margin: 0 5px">
 <img align="left" alt="python" src="images/logos/python.svg" height="50px" style="margin: 0 5px">
 
 <br/>
@@ -17,16 +14,6 @@ I like to mix things up from game engine development to making operating system 
 <br/>
 
 ### More About Me  
-
-- **🔭 I’m currently working on :**  
-
-- **🌱 I’m currently learning :**
-    
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
-    
-    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
     
 - **📫 How to reach me :**  
 
