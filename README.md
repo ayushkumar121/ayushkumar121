@@ -33,10 +33,7 @@ I like to mix things up from game engine development to making operating system 
     Email me at ayushkumar121@outlook.com
     
 - **😄 Pronouns :** He/Him
-- **⚡ Fun fact :** Really like strategy games like factorio  
-
-  (PS: My favorite reposity is https://github.com/ayushkumar121/Fairy-Engine)
-
+- **⚡ Fun fact :** Love factorio  
 <br/>
 
 > Most of my repositories are result of my experiments after visiting sketchy forums
