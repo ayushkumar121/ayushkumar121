@@ -6,8 +6,9 @@ I like to mix things up from game engine development to making operating system 
 
 **Technologies i like working with**
 
-<img align="left" alt="cpp" src="images/logos/cpp.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/logos/python.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="cpp" src="images/logos/c.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="python" src="images/logos/go.svg" height="50px" style="margin: 0 5px">
+<img align="left" alt="python" src="images/logos/rust.svg" height="50px" style="margin: 0 5px">
 
 <br/>
 <br/>
