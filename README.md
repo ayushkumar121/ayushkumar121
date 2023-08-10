@@ -3,14 +3,6 @@
 ### About Me  
 
 I like to mix things up from game engine development to making operating system from scratch Life is too boring to stick to the same old formula.
-
-**Technologies i like working with**
-
-<img align="left" alt="cpp" src="images/logos/c.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/logos/go.svg" height="50px" style="margin: 0 5px">
-<img align="left" alt="python" src="images/logos/rust.svg" height="50px" style="margin: 0 5px">
-
-<br/>
 <br/>
 <br/>
 
